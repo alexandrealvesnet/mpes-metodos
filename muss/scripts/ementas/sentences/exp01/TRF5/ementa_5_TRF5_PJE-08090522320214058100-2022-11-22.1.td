@@ -1,0 +1,1 @@
+procedimento n.o: 0809052-23.2021.08.8800 - necessária referência ao autor: a. d. m. representante: defesa pública da união - inss relator(a): deporteur(a) federal leonardo carvalho - 2a juz prolator do acórdão (1 grau): juiz(a) federal - inss relator(a): deporteur(a) federal jurge luis grero.

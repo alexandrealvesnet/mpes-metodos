@@ -1,0 +1,1 @@
+3. agregação onde a oferta é recusada.

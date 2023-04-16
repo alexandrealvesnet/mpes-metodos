@@ -1,0 +1,1 @@
+trata-se, portanto, de uma opção político-legislativa que está fora da arte no texto jurídico explícito sobre o assunto, embora o tribunal de justiça tenha, como no presente caso, se oposto ao pedido de recuperação judicial no presente caso.

@@ -1,0 +1,1 @@
+processo no 0800985-27.2018.04.05.0000 - instrumento agravo - esta abreviação: eit constructionues s/a advogado: lara gargel do amaral duarte e outro angaravado: relator nacional(a): paul roberto de oliveira lima - 2a masterizado grupo chamado: angaravado: o re-carvalho, o re-carvalho e o re-carvalho.

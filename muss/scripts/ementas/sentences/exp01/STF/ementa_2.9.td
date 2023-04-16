@@ -1,0 +1,1 @@
+2. incapaz de combinar o sistema de lei complementar no 1.109/2010 do estado de são paulo com a lei no 8.213/1991, para este fim, a idade mínima é de 18 anos.

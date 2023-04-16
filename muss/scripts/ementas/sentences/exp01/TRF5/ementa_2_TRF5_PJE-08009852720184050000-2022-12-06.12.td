@@ -1,0 +1,1 @@
+Ele deu-me um abraço.

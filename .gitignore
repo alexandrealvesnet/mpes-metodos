@@ -4,5 +4,7 @@
 *.egg-info
 .pytest_cache
 .nfs*
+.idea
 muss/resources/
 muss/venv_python/
+pylinguistics/venv_python/

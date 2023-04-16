@@ -1,0 +1,1 @@
+3. o limiar foi diferido (artigo 7(ii) da Lei 12.016/2009), e o inss concluiu o procedimento administrativo referido ao pedido que deu origem ao benefício do nb 710.868-3. a sentença de concessão de garantia deve ser mantida de acordo com o artigo 485 i, cpc/2015, e o artigo 14 da Lei n.o 12.016/2009.

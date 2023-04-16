@@ -1,0 +1,1 @@
+-the radical nullity which affects the various acts of judicial inquiry, when caused by the judge's arbitrary rejection of the right of the titler to ask questions about the other criminal cases of the past, defiles all subsequent acts of the proceedings, including probative acts, such as the public ministry's procurement of witnesses.

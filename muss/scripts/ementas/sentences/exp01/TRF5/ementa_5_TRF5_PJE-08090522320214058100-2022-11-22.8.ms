@@ -1,0 +1,1 @@
+3. the threshold was deferred (Article 7(ii) of Law 12.016/2009), and the inss concluded the administrative procedure referred to the application which gave rise to the benefit of nb 710.868-3. The security grant sentence shall be maintained in accordance with Article 485 I, cpc/2015, and Article 14 of Act No 12.016/2009.

@@ -1,0 +1,1 @@
+2. o caso de aplicação de impostos pela fábrica nacional foi aumentado. o montante do imposto foi aumentado para r $1.179.944.02 (um milhão, cento e setenta e nove reais, novecentos e quarenta e quatro reais).

@@ -1,0 +1,1 @@
+3. O tribunal de primeira instância não considerou que esta execução fiscal tenha sido suspensa com base na definição de recuperação judicial da empresa devedora, nos termos do artigo 6.o, n.o 7, do ato n.o 11.101/05, relativamente a outros processos judiciais.

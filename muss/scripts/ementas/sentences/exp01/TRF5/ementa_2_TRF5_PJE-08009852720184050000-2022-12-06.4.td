@@ -1,0 +1,1 @@
+Suspensão da vida.

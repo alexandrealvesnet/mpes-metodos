@@ -1,0 +1,1 @@
+4. Existe uma disposição legal explícita no artigo 6.o, n.o 7, da Lei n.o 11.101/2005 que permite a separação nos termos do código fiscal nacional e da legislação ordinária específica, no sentido de que "as execuções de natureza fiscal não são suspensas pela definição de recuperação judicial".

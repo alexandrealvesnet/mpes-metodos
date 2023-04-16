@@ -1,0 +1,1 @@
+The legal person should have come to the cars to inform the referee, by the court of law of the Jagurauana/ce, that his application for judicial recovery has been processed.
