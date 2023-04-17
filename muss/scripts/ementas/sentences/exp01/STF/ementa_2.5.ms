@@ -1,1 +1,0 @@
-Article 40(4) of the national constitution.

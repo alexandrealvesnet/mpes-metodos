@@ -1,1 +1,0 @@
-O reconhecimento da existência e aplicação de uma norma infra-constitucional de direito constitucional contestada demonstra a falha não-constitucional do sistema de aplicação da lei, uma vez que o sistema de aplicação da lei não está sujeito a um incumprimento legislativo.

@@ -1,1 +1,0 @@
-Therefore, having regard to the absence of effective commitment to the plan of recovery of the execution, it did not raise any reason for the submission, to the State court, of the executive acts to be executed in the cars of which it is responsible for the death of a member of its staff.

@@ -1,1 +1,0 @@
-In addition, it considered that there was no absolute deviation from the practice of constructive acts in the performance of such a situation, only those acts that were required to prevent the company's economic activity from continuing or to compromise the development of the recovery plan.

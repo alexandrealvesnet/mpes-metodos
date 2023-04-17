@@ -1,1 +1,0 @@
-1. a apresentação necessária de uma sentença que concedeu a suposta garantia para tornar definitivos os efeitos da decisão administrativa já concedida por este tribunal federal, e encerrou o processo por resolução de mérito nos termos do artigo 485, (i) da cpc/2015, e do artigo 14 da lei 12.016/2009.

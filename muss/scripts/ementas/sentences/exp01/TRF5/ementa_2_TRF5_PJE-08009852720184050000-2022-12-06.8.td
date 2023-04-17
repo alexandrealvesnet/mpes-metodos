@@ -1,1 +1,0 @@
-a pessoa jurídica deveria ter chegado aos carros para informar o árbitro, pelo tribunal de justiça da jagurauana/ce, que seu pedido de recuperação judicial foi processado.

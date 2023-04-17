@@ -1,1 +1,0 @@
-Registro reforçado em ordem de lesão.

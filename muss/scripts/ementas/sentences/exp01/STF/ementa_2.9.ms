@@ -1,1 +1,0 @@
-2. Unable to combine the system of supplementary law No 1.109/2010 of the state of São Paulo with the Act No 8.213/1991, to this end, the minimum age is set at 18.

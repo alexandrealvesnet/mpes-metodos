@@ -1,1 +1,0 @@
-2. security order, at the request of the national social insurance company - i.e. to complete the administrative process for providing assistance to people with disabilities, according to the 31/10/2020 Protocol 63911522 (id.4058100.23636063).

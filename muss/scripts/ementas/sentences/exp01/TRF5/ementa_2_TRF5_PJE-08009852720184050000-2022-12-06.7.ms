@@ -1,1 +1,0 @@
-2. The case of tax enforcement by the national factory was increased. The amount of the tax was increased to r$1.179.944.02 (one million, one hundred and seventy-nine real, nine hundred and forty-four reals).

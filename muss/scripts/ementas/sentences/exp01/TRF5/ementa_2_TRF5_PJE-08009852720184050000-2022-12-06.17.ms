@@ -1,1 +1,0 @@
-Therefore, to the minimum extent that the construction intended by the affected company exceeds the company's operation and recovery, there is no absolute objection to the construction works being carried out during the financial execution.

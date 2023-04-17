@@ -1,1 +1,0 @@
-além disso, considerou que não houve desvio absoluto da prática de atos construtivos no desempenho de tal situação, apenas os atos que foram necessários para impedir que a atividade econômica da empresa continuasse ou comprometer o desenvolvimento do plano de recuperação.

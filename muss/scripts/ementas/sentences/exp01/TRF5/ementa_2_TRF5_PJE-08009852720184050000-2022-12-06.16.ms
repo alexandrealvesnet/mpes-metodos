@@ -1,1 +1,0 @@
-i n 4058101.2107233), the recapitalisation of the company is invasable.

@@ -1,1 +1,0 @@
-6. no caso dos automóveis, o pedido geral de execução no sentido de que qualquer ato construtivo foi interrompido, em particular por que o executivo nacional exigiu a penalidade na face dos carros (cf.

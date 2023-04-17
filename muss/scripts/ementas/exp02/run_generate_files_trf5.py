@@ -1,8 +1,7 @@
 from generate import Generate
 
-path = '/home/alexandre/Desenvolvimento/mpes-experimentos/muss/scripts/ementas/'
+dataset_path = '/home/alexandre/Desenvolvimento/mpes-experimentos/muss/scripts/ementas/dataset/dataset_100_sentencas_TRF5.json'
+sentence_path = '/home/alexandre/Desenvolvimento/mpes-experimentos/muss/scripts/ementas/sentences/exp02/TRF5/'
 
-dataset = 'dataset_100_sentencas_TRF5.json'
-
-generate = Generate(path)
-generate.gen_files_ementas(dataset, 'TRF5')
+generate = Generate(dataset_path, sentence_path)
+generate.gen_files_ementas()

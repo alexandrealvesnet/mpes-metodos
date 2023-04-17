@@ -1,1 +1,0 @@
-3. the Court of First Instance did not consider that this tax enforcement was suspended on the basis of the definition of the judicial recovery of the debtor undertaking, according to Article 6 (7) of the Act No 11.101/05, in relation to other judicial proceedings.

@@ -1,1 +1,0 @@
-para tanto, tendo em vista a ausência de compromisso efetivo com o plano de recuperação da execução, não levantou qualquer razão para a submissão, ao tribunal estadual, dos atos executivos a serem executados nos carros dos quais é responsável pela morte de um membro de seu pessoal.

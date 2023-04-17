@@ -1,1 +1,0 @@
-portanto, na medida mínima em que a construção pretendida pela empresa afetada excede a operação e recuperação da empresa, não há objeção absoluta às obras de construção que estão sendo realizadas durante a execução financeira.

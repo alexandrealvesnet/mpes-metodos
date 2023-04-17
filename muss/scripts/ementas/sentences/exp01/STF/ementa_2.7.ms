@@ -1,1 +1,0 @@
-The lack of a legislative default.

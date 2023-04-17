@@ -1,1 +1,0 @@
-1. the recognition of the existence and application of a regulatory infra-constitutional standard of constitutional law which is disputed demonstrates the non-constitutional failure of the law enforcement system, as the law enforcement system is not subject to a legislative default.

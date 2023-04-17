@@ -1,1 +1,0 @@
-2. ordem de segurança, a pedido da companhia nacional de seguros sociais - ou seja, para completar o processo administrativo de prestação de assistência às pessoas com deficiência, de acordo com o protocolo 31/10/2020 63911522 (id.4058100.23636063).

@@ -1,1 +1,0 @@
-Artigo 40.o, n.o 4, da Constituição Nacional.
