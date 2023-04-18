@@ -29,3 +29,5 @@ cachier>=1.2.8
 huggingface
 natsort
 tensorboardX
+transformers
+huggingface

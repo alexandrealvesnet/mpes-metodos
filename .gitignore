@@ -9,3 +9,5 @@ muss/resources/
 muss/venv_python/
 pylinguistics/venv_python/
 pylinguistics/pylinguistics/resources/
+transformers/venv_python/
+transformers/checkpoint-9000/
