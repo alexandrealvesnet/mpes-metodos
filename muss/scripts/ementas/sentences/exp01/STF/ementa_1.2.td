@@ -1,0 +1,1 @@
+- quando as partes não estão dispostas a usá-las para esclarecer uma situação existente de escuridão, omissão ou contradição - elas passam a usá-las para tornar isso possível, de modo que uma revisão independente do caso possa ser feita.

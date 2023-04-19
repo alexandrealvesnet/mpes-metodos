@@ -1,0 +1,1 @@
+1. the recognition of the existence and application of a regulatory infra-constitutional standard of constitutional law which is disputed demonstrates that the enforcement order does not have the force of law that is constitutionally guaranteed and does not work.

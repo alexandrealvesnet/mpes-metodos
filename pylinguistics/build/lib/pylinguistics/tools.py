@@ -203,6 +203,9 @@ def clear_string(value):
 	#for c in string:
 	#print('c:'+c)
 	#replaced+=dic.get(c,c)
+
+	value = str(value)
+
 	value = re.sub('à', "a", value)
 	value = re.sub('é', "e", value)
 	value = re.sub('ã', "a", value)

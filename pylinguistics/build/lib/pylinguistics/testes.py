@@ -1,4 +1,9 @@
-import Pylinguistics as pl
-objpl=pl.text('Ia bem em matemática, porém reprovou em física.')
+"""import Pylinguistics as pl
+objpl=pl.text('Caso de típico julgamento monocrático do recurso, a incidir as disposições constantes no art. 554, § 4º, II, do Código de Processo Civil.')
 objpl.setLanguage("pt-br")
-objpl.getFeatures()
+# this is a multiline comment
+output = objpl.getFeatures()
+print(output)"""
+
+valor = "{:.2f}".format(13.949999999999999)
+print(valor)

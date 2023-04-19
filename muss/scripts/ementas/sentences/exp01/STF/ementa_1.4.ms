@@ -1,0 +1,1 @@
+-the radical nullity which affects the various acts of judicial inquiry, when caused by the judge who arbitraryly rejects, in fact, the right - by this titler - to make questions to the other criminal litigations of the past, defiles all the subsequent acts of the proceedings, including the procurement of witnesses by the government, which is a matter of public importance.

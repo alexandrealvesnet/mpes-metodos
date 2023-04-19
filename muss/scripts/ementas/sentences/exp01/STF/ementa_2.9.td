@@ -1,0 +1,1 @@
+2. o sistema de lei complementar no 1.109/2010 do estado de são paulo não pode ser conjugado com a lei no 8.213/1991, para tanto é considerada uma idade mínima para submissão.

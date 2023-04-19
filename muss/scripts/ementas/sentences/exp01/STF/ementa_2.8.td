@@ -1,0 +1,1 @@
+O reconhecimento da existência e aplicação de uma norma infra-constitucional de direito constitucional que é contestada demonstra que a ordem de execução não tem a força de direito que é constitucionalmente garantida e não funciona.

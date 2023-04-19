@@ -1,0 +1,1 @@
+but statements - inconsistencies of contradiction, darkness or omission - should be looked at again to see if they are inadmissibility. Inadmissibility is rejected.

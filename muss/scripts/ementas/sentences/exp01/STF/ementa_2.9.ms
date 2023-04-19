@@ -1,0 +1,1 @@
+2. The system of supplementary law No 1.109/2010 of the state of São Paulo cannot be conjugated with the Act No 8.213/1991, to this end it is considered a minimum age for submission.

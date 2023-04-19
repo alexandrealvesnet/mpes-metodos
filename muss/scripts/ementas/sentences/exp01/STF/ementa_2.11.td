@@ -1,0 +1,1 @@
+3. para o qual a oferta foi recusada.
