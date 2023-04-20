@@ -1,1 +1,0 @@
-the lack of a legal default.

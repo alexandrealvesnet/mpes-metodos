@@ -1,1 +1,0 @@
-3. To which supply has been refused.

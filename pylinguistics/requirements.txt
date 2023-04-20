@@ -6,3 +6,4 @@ nlpnet
 pandas
 h5py
 natsort
+openpyxl

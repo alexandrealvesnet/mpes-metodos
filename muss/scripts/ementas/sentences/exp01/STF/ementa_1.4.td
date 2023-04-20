@@ -1,1 +1,0 @@
-- a nulidade radical que afeta os vários atos de inquérito judicial, quando causada pelo juiz que arbitrariamente rejeita, de fato, o direito - por este titulo - de fazer perguntas aos outros litígios criminais do passado, contamina todos os atos subsequentes do processo, incluindo a aquisição de testemunhas pelo governo, que é uma questão de importância pública.
