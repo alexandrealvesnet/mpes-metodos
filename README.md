@@ -103,6 +103,8 @@ cd scripts/ementas/exp02/
 python run_generate_files_trf5.py
 run_simplify_trf5.py
 ```
+Em `mpes-experimentos/muss/scripts/ementas` existe o script `muss_colab.ipynb` que é responsável por gerar as 10.574 simplificações das ementas do STF, através do dataset `ementas/exp02/10574_ementas_stf/dataset_10574_ementas_stf.json`.
+
 ## Experimento 03 - Uso da bilioteca Transformers do Hugginface com modelo pré-treinado em língua portuguesa e ajustado com termos jurídicos
 
 Esse experimento utilizou o modelo [alfaneo/bertimbaulaw-base-portuguese-cased](https://huggingface.co/alfaneo/bertimbaulaw-base-portuguese-cased) juntamente com a API de [Transformers](https://huggingface.co/docs/transformers/index), ambos disponíveis no [Huggingface](https://huggingface.co). Esse modelo é ajustado com termos jurídicos e derivado do modelo [neuralmind/bert-base-portuguese-cased](https://huggingface.co/neuralmind/bert-base-portuguese-cased) que é o modelo BERTimbau Base, pré-treinado no modelo BERT em língua portuguesa.
