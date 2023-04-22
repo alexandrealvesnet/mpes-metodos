@@ -196,7 +196,7 @@ Os resultados obtidos para os experimentos foram os seguintes:
 
 ## Citação
 
-Se vicê usou os artefatos gerados nessa pesquisa, por favor cite [Simplificação automática de textos jurídicos em português usando aprendizagem de máquina] (http://link_artigo_dissertacao)
+Se vicê usou os artefatos gerados nessa pesquisa, por favor cite [Simplificação automática de textos jurídicos em português usando aprendizagem de máquina](http://link_artigo_dissertacao)
 
 ```
 @article{simp_aut_text_jur_por_am,
