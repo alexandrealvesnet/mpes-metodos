@@ -1,6 +1,6 @@
 """
 @Author: Alexandre
-CLASSE PARA TRADUÇÃO VIA GOOGLE CLOUD API
+CLASSE PARA TRADUÇÃO
 """
 
 from transformers import pipeline
