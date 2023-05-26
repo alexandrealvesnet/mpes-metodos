@@ -1,0 +1,1 @@
+embargos de recurso especial com agravo em recurso extraordinario. . decisao monocratica. embargos recebidos como agravo regimental de trabalho. . direito civil processual. desistencia pagos pelo ministerio publico do trabalho por meio de acao civil publica. . crime infraconstitucional. ofensa reflexa. . agravo administrativo a que se nega provimento. 

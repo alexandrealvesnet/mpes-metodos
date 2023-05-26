@@ -1,0 +1,1 @@
+recurso fatica e legal materia extraordinario. o recurso extraordinario nao e um meio proprio para revolvimento da prova. tambem nao e um meio para interpretacao estritamente legal. artigo, o, do codigo de processo civil multa. surgindo do exame do agravo o carater manifestamente infundado, impoese a aplicacao da multa prevista no o do artigo do codigo de processo civil. 

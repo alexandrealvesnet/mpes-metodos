@@ -1,0 +1,1 @@
+RECURSO FÁTICA E LEGAL – MATÉRIA EXTRAORDINÁRIO. O recurso extraordinário não é um meio próprio para revolvimento da prova. ARTIGO 557, § 2o, DO CÓDIGO DE PROCESSO CIVIL – MULTA. Surgindo do exame do agravo o caráter manifestamente infundado, impõe - se a aplicação da multa prevista no § 2o do artigo 557 do Código de Processo Civil.

@@ -1,0 +1,1 @@
+recurso fatica e legal materia extraordinario. o recurso extraordinario nao e um meio proprio para revolvimento da prova. tambem nao e um meio para interpretacao estritamente legal. 

@@ -1,0 +1,1 @@
+Recurso administrativo em habeas corpus. 1. Negativa da liberdade de recorrer em liberdade condicional. Decisão fundamentada em princípios da ordem pública. 1. Violência ilegal não caracterizada Não caracterizada. 4. Recurso ao que não há provimento.

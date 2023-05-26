@@ -1,0 +1,1 @@
+RECLAMAÇÃO – AÇÃO AJUIZADA CONTRA ATO JUDICIAL EMANADO DE MINISTRA DESTA CORTE – INADMISSIBILIDADE – RECURSO DE AGRAVO IMPROVIDO. Não se revela cabível reclamação contra atos ou omissões imputados aos próprios magistrados integrantes deste Supremo Tribunal Federal, como sucede na espécie.

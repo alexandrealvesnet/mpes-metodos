@@ -1,0 +1,1 @@
+agravo regimental no agravo de creditacao. administrativo. servidor administrativo. incorporacao de vantagens. exame da infraconstitucional legislacao. ofensa administrativa indireta. agravo regimental que nao e concedido provimento. 

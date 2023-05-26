@@ -1,0 +1,1 @@
+agraviação de um recurso natural com agregação. 2. direito do consumidor. 3. abastecimento de água. a taxa mínima. O desequilíbrio econômico-financeiro do contrato entre as partes. o sumul do 279 mencionado foi fixado em stf. Trata-se de uma questão institucional. 4. não há argumentos que possam confirmar a decisão. 5. danos restritivos aos quais a provisão não é permitida. 

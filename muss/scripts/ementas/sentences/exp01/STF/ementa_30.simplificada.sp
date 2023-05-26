@@ -1,0 +1,1 @@
+um recurso - ação contra um ato judicial ordenado por um ministro deste tribunal - um recurso agrícola insubstanciado - inadmissibilidade. não há reivindicação adequada quando aplicada (como é o caso no caso da espécie), contra os juízes integrados deste supremo tribunal federal, porque eles não têm os mesmos direitos. 

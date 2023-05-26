@@ -1,0 +1,1 @@
+ordem de segurança  impetração que não aponta para fatos concretos, cuja ocorrência pode ensinar o uso adequado do caminho da ordem de segurança  verificação (sumula 271/stf)  recurso agrícola inexplorado  uma situação de controvérsia objetiva  a liquidez dos fatos. 

@@ -1,0 +1,1 @@
+mandado de seguranca impugnacao aos fundamentos de decisao monocratica que nao aponta o inviabilidade utilizacao da via adequada utilizacao da via adequada utilizacao da via inadequada recurso regimental, ex officio. 

@@ -1,0 +1,1 @@
+agravo regimental no recurso especial com agravo. direito de trabalho. agravo regimental em recurso extraordinario com agravo. dobra no pagamento fora do prazo legal realizado. 

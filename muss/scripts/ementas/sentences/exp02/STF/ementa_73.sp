@@ -1,0 +1,1 @@
+Agravo regimental em recurso especial com agravo. Direito da Previdência. 1. Lei Complementar 51/85. Recepção à Constituição Federal. 1. Abono de duração. Preenchimento dos requisitos. Enunciado artigo 279 do STF. Matéria Constitucional. Ausência de argumentos suficientes para sustentar a decisão agravada. Agravo administrativo a que se nega provimento. 

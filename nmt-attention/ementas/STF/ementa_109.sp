@@ -1,0 +1,1 @@
+agravo de execucao em agravo de instrumento. direito do consumidor. . nao tenho ouvido. ressarcimento. aplicacao da sumula stf ao obice. inexistencia. decisao que garantiu o restabelecimento dos valores da parte agravante. agravo administrativo a que se nega provimento. 

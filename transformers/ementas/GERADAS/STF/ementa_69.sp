@@ -1,0 +1,1 @@
+Embargos de recurso especial com agravo em recurso extraordinário, sem agravo. 1. Decisão monocrática da decisão. Embargos recebidos como agravo de segurança pública. 1. Direito Administrativo e do Processo Civil. 1. Juizado especial 1. juizado especial. " Competência profissional. Val Valor da causa. Matéria infraconstitucional. 5. Agravo administrativo a que se nega provimento.

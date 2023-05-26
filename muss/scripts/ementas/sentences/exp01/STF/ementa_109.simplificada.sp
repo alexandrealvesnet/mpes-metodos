@@ -1,0 +1,1 @@
+abrasão do instrumento e cicatrizes. O cliente tem razão. espaço aéreo não utilizado. Desculpa-me. uma possível violação da Constituição Federal artigo 93, xi. Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não! uma decisão que é bem fundamentada, mesmo que vá contra os interesses da parte prejudicada. Seria muito difícil para mim dizer não à oferta. 

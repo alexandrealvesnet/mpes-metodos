@@ -1,0 +1,1 @@
+processo penal. para receber a reclamação. para cumprir os requisitos do artigo 41 do CCP. a existência de um caso (cpp, artigo 395, (iii) sobre a evidência de materialidade e autoritarismo. A queixa foi recebida. 

@@ -25,12 +25,11 @@ class MetricaEmenta:
         ws.title = 'metrics'
 
         ws['A1'] = 'EMENTA'
-        ws['B1'] = 'PALAVRAS'
-        ws['C1'] = 'SENTENÇAS'
-        ws['D1'] = 'MÉD.PAL/SEN'
-        ws['E1'] = 'COMP.MÉD.SEN'
-        ws['F1'] = 'SÍLABAS'
-        ws['G1'] = 'LEGIBILIDADE'
+        ws['B1'] = 'QUANTIDADE DE SENTENÇAS'
+        ws['C1'] = 'COMPRIMENTO MÉDIO DAS SENTENÇAS'
+        ws['D1'] = 'NÚMERO MÉDIO DE SÍLABAS POR PALAVRA'
+        ws['E1'] = 'LEGIBILIDADE'
+
         return ws
 
     def generate_metrics_by_ementa(self, name_file, extension="/*.br"):
@@ -56,17 +55,13 @@ class MetricaEmenta:
             a = get_column_letter(1)
             ws[a + str(inc)] = number_ementa
             b = get_column_letter(2)
-            ws[b + str(inc)] = json_metrics['word_count']
+            ws[b + str(inc)] = json_metrics['sentence_count']
             c = get_column_letter(3)
-            ws[c + str(inc)] = json_metrics['sentence_count']
+            ws[c + str(inc)] = self.format_value(json_metrics['mean_sentence_length'])
             d = get_column_letter(4)
-            ws[d + str(inc)] = self.format_value(json_metrics['avg_word_per_sentence'])
+            ws[d + str(inc)] = self.format_value(json_metrics['avg_syllables_per_word'])
             e = get_column_letter(5)
-            ws[e + str(inc)] = self.format_value(json_metrics['mean_sentence_length'])
-            e = get_column_letter(6)
-            ws[e + str(inc)] = json_metrics['syllable_count']
-            g = get_column_letter(7)
-            ws[g + str(inc)] = self.format_value(json_metrics['redability'])
+            ws[e + str(inc)] = self.format_value(json_metrics['redability'])
 
             print(f'### MÉTRICA EMENTA {number_ementa} - ({extension}) CONCLUÍDA ###')
 

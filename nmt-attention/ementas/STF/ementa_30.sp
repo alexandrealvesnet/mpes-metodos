@@ -1,0 +1,1 @@
+reclamacao acao ajuizada contra ato judicial emanado de ministra desta corte inadmissibilidade precedentes recurso de agravo improvido. nao se revela cabivel reclamacao contra atos ou omissoes imputados aos proprios magistrados integrantes deste supremo tribunal federal, como sucede na especie. 

@@ -1,0 +1,1 @@
+O recurso especial foi definido com agrave. o direito penal. tráfego de entorpequents. 1. Análise da situação jurídica: artigo 59.o do Código Penal. o re-exame. Súmulo no 279 do Tribunal Federal. 2. medição da dor. Trata-se de uma questão institucional. violação do direito constitucional. Acho que não vou ser capaz de tratar disso. 

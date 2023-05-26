@@ -1,0 +1,1 @@
+agravo regimental em recurso extraordinario com agravo. direito da previdencia. . lei complementar. a constituicao federal. . abono de duracao. preenchimento dos requisitos. enunciado artigo do stf. materia infraconstitucional. ausencia de argumentos suficientes para sustentar a decisao agravada. . agravo administrativo a que se nega provimento. 

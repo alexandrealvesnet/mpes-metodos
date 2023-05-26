@@ -1,0 +1,1 @@
+agravo regimental no recurso especial com agravo. o direito penal. trafico de trabalho. analise da legislacao criminal. reexame de provas. sumula n. do tribunal estado federal. . punicao da pena. materia infraconstitucional. ofensa administrativa indireta. agravo regimental que nao e concedido provimento. 

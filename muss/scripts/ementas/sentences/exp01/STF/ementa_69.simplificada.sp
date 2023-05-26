@@ -1,0 +1,1 @@
+No entanto, um uso extraordinário de agravo. 2. decisão monocrática. A declaração é considerada uma carga regulatória. 3. direito processual civil. 4. processo especial. competência. A importância da causa. Trata-se de uma questão institucional. 5. danos restritivos aos quais a provisão não é permitida. 

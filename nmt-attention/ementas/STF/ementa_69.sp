@@ -1,0 +1,1 @@
+embargos de recurso especial com agravo em recurso extraordinario. . decisao monocratica. embargos recebidos como agravo regimental de trabalho. . direito civil processual. . juizado especial. competencia profissional. o valor da causa. materia infraconstitucional. . agravo administrativo a que se nega provimento. 

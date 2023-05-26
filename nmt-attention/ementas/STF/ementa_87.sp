@@ -1,0 +1,1 @@
+habeas corpus ! furto qualificado pelo uso de chave falsa e corrupcao ativa. condenacao. . bens de grande valor r,. aplicacao do principio da insignificancia e do privilegio previstos no art., o, do cp. incapacidade para aplicacao. maior reprovabilidade da conduta. . ordem denegada. 

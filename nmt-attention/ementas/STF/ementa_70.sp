@@ -1,0 +1,1 @@
+direito civil processual. execucao fiscal. excecao de preexecutividade. debate de alegria infraconstitucional. violacao reflexa da constituicao da republica nao viabiliza o manejo de recurso extraordinario. 

@@ -1,0 +1,1 @@
+desenvolvimento de um recurso extraordinário. administrativa. o plano especial de carga do ministério da indústria será alterado. 1. nenhuma lei foi criada sob a lei. anterior. 2. as sanções foram reduzidas. revisão de evidências e fatos. Súmulo no 279 do Tribunal Federal. 3. para o qual a oferta foi recusada. 

@@ -1,0 +1,1 @@
+agravo regimental no recurso especial. administrativo. reestruturacao do plano especial de cargos do ministerio da fazenda. . inexistencia de direito previsto no regime juridico. precedentes do processo. alegada reducao de salarios. reexame de provas e fatos. sumula n. do tribunal estado federal. agravo regimental que nao e concedido provimento. 

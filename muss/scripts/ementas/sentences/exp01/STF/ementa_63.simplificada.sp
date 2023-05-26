@@ -1,0 +1,1 @@
+No entanto, um uso extraordinário de agravo. 2. decisão monocrática. A declaração é considerada uma carga regulatória. 3. direito processual civil. ministério de obras públicas de ação civil pública aprovação de discrição. 4. questão infra-institucional. ofensa reflexiva. 5. danos restritivos aos quais a provisão não é permitida. 

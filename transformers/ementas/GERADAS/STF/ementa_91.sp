@@ -1,0 +1,1 @@
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. REESTRUTURAÇÃO DO PLANO ESPECIAL DE CARGOS DO MINISTÉRIO DA FAZENDA ( PECFAZ ). 1. Inexistência de direito jurídico próprio. Precedentes do processo. Alegada redução de salários. Reexame fatos e provas. Súmula 279 do Supremo Tribunal Federal. Agravo regimental que não é concedido provimento.

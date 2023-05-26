@@ -1,0 +1,1 @@
+RECURSO FÁTICA E LEGAL – MATÉRIA EXTRAORDINÁRIO. O recurso extraordinário não é um meio próprio para revolvimento da prova. Também não é um meio para interpretação estritamente legal. 

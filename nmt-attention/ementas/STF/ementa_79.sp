@@ -1,0 +1,1 @@
+processual penal. recebimento da denuncia. atendimento dos requisitos do art. do cpp. presenca de justa causa cpp, art., iii, em face dos indicios de materialidade e autoria. denuncia recebida. 
