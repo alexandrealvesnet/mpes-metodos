@@ -34,9 +34,9 @@ O método consiste em realizar simplificações das sentenças existentes nas em
 Esse método usou uma máquina virtual, criada através da `Virtual Box 6.1.38`, `Ubuntu 22.04.1 64x`, `Python 3.10.6` com `16GB de RAM`. Abaixo temos o processo de instalação e configuração do MUSS que também servirá para o `método MUSS(PT)`:   
 ```
 git@github.com:alexandrealvesnet/mpes-métodos.git  # baixa todos os métodos usados na pesquisa. 
-cd mpes-métodos/muss  # acessa o diretório do modelo MUSS usados pelos métodos 01 e 02.
+cd mpes-métodos/muss  # acessa o diretório do modelo MUSS usados pelos métodos MUSS(EN) e MUSS(PT).
 ```
-No diretório "muss" é necessário adicionar o [diretorio `resources`](https://drive.google.com/file/d/1vnmO9X9zphNur0XWhcnUxGeLOBj8o8Li/view?usp=sharing), que contém as biliotecas, bem como os modelos pré-treinados usados pelos métodos 01 e 02, ficando conforme imagem abaixo (mpes-metodos/muss/resources):
+No diretório "muss" é necessário adicionar o [diretorio `resources`](https://drive.google.com/file/d/1vnmO9X9zphNur0XWhcnUxGeLOBj8o8Li/view?usp=sharing), que contém as biliotecas, bem como os modelos pré-treinados usados pelos métodos MUSS(EN) e MUSS(PT), ficando conforme imagem abaixo (mpes-metodos/muss/resources):
 
 ![Diretório resources necessário para o MUSS funcionar](assets/images/resources_muss.png)
 
@@ -163,7 +163,7 @@ E biblioteca está disponível em `mpes-métodos/pylinguistics` e para seu uso d
 
 ### Pylinguistics - Instalação
 
-A bilioteca foi usada no mesmo ambiente usado pelos `métodos 01 e 02`, com exceção da versão do Python 3.7 usado nesse processo. Para a instalação funcionar será necessário instalar os seguintes pacotes:
+A bilioteca foi usada no mesmo ambiente usado pelos `métodos MUSS(EN) e MUSS(PT)`, com exceção da versão do Python 3.7 usado nesse processo. Para a instalação funcionar será necessário instalar os seguintes pacotes:
 
 ```
 sudo apt install python3.7-distutils
