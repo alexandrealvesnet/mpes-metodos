@@ -1,9 +1,9 @@
-"""import Pylinguistics as pl
-objpl=pl.text('Caso de típico julgamento monocrático do recurso, a incidir as disposições constantes no art. 554, § 4º, II, do Código de Processo Civil.')
+import Pylinguistics as pl
+objpl=pl.text('foi dado nessa decisão que o executor não deve ser aplicado na ausência de interrupções ou suspensões do prazo prescrito, sendo seu silêncio interpretado como extensão do fato.')
 objpl.setLanguage("pt-br")
 # this is a multiline comment
 output = objpl.getFeatures()
-print(output)"""
+print(output)
 
-valor = "{:.2f}".format(13.949999999999999)
-print(valor)
+"""valor = "{:.2f}".format(13.949999999999999)
+print(valor)"""
