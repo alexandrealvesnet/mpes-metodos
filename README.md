@@ -114,7 +114,7 @@ O processo de treinamento do modelo foi realizado usando o script no formato Jup
 Isso gerou um [checkpoint do modelo](https://drive.google.com/file/d/1wNrV-blIOjH8IU0gP-ie3GrHDYNrMgxd/view?usp=sharing) que deve ser baixado e utilizado no processo de simplificação.
 
 ### Transformers - Simplificação
-A simplificação das ementas realizada por esse método utilizou o mesmo ambiente dos experimetos 01 e 02. O código está disponível no diretório `mpes-métodos/transformers`, e para utilizá-lo o `checkpoint do modelo` baixado deve ficar na seguinte estrutura:
+A simplificação das ementas realizada por esse método utilizou o mesmo ambiente dos métodos MUSS(EN) e MUSS(PT). O código está disponível no diretório `mpes-métodos/transformers`, e para utilizá-lo o `checkpoint do modelo` baixado deve ficar na seguinte estrutura:
 
 ![Modelo gerado pelo processo de treinamento](assets/images/checkpoint_exp03.png)
 
@@ -146,7 +146,7 @@ Para a simplificação são usados os arquivos `.pt` já disponíveis em `transf
 
 ## NMT + Attention - Neural Machine Translator (NMT) com Attention
 
-Esse método está disponível em `mpes-experiemntos/nmt-attention`, o treinamento e a simplificação das ementas foram feitos através do script `exp04_train_test_nmt_attention.ipynb` disponível no diretório, e utilizou o dataset `dataset_132.879_pares_sentencas_stf.json`, além disso, as ementas `.pt` disponíveis no diretório `nmt-attention/ementas` também foram usadas. O ambiente usado foi o `Google Colab Pro`, que disponibiliza cerca de 25.45GB de memória RAM e uso de GPU. O modelo foi configurado com tamanho de Batch em 128 e com 100 Epochs, e levou cerca de 02 horas para ser treinado do zero, ou seja, não usou modelo pré-treinado.
+Esse método está disponível em `mpes-metodos/nmt-attention`, o treinamento e a simplificação das ementas foram feitos através do script `exp04_train_test_nmt_attention.ipynb` disponível no diretório, e utilizou o dataset `dataset_132.879_pares_sentencas_stf.json`, além disso, as ementas `.pt` disponíveis no diretório `nmt-attention/ementas` também foram usadas. O ambiente usado foi o `Google Colab Pro`, que disponibiliza cerca de 25.45GB de memória RAM e uso de GPU. O modelo foi configurado com tamanho de Batch em 128 e com 100 Epochs, e levou cerca de 02 horas para ser treinado do zero, ou seja, não usou modelo pré-treinado.
 
 ## Avaliação dos resultados - Biblioteca Pylinguistics
 
