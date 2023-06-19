@@ -36,7 +36,7 @@ Esse método usou uma máquina virtual, criada através da `Virtual Box 6.1.38`,
 git@github.com:alexandrealvesnet/mpes-métodos.git  # baixa todos os métodos usados na pesquisa. 
 cd mpes-métodos/muss  # acessa o diretório do modelo MUSS usados pelos métodos 01 e 02.
 ```
-No diretório "muss" é necessário adicionar o [diretorio `resources`](https://drive.google.com/file/d/1vnmO9X9zphNur0XWhcnUxGeLOBj8o8Li/view?usp=sharing), que contém as biliotecas, bem como os modelos pré-treinados usados pelos métodos 01 e 02, ficando conforme imagem abaixo:
+No diretório "muss" é necessário adicionar o [diretorio `resources`](https://drive.google.com/file/d/1vnmO9X9zphNur0XWhcnUxGeLOBj8o8Li/view?usp=sharing), que contém as biliotecas, bem como os modelos pré-treinados usados pelos métodos 01 e 02, ficando conforme imagem abaixo (mpes-metodos/muss/resources):
 
 ![Diretório resources necessário para o MUSS funcionar](assets/images/resources_muss.png)
 
@@ -114,7 +114,7 @@ O processo de treinamento do modelo foi realizado usando o script no formato Jup
 Isso gerou um [checkpoint do modelo](https://drive.google.com/file/d/1wNrV-blIOjH8IU0gP-ie3GrHDYNrMgxd/view?usp=sharing) que deve ser baixado e utilizado no processo de simplificação.
 
 ### Transformers - Simplificação
-A simplificação das ementas realizada por esse método utilizou o mesmo ambiente dos métodos MUSS(EN) e MUSS(PT). O código está disponível no diretório `mpes-métodos/transformers`, e para utilizá-lo o `checkpoint do modelo` baixado deve ficar na seguinte estrutura:
+A simplificação das ementas realizada por esse método utilizou o mesmo ambiente dos métodos MUSS(EN) e MUSS(PT). O código está disponível no diretório `mpes-métodos/transformers`, e para utilizá-lo o `checkpoint do modelo` baixado deve ficar na seguinte estrutura (mpes-metodos/transformers/checkpoint-9000):
 
 ![Modelo gerado pelo processo de treinamento](assets/images/checkpoint_exp03.png)
 
@@ -157,7 +157,7 @@ Para a avaliação dos resultados foi utilizada a biblioteca [Pylinguistics](htt
 * **Sílabas:** Número médio de sílabas por palavra;
 * **Legibilidade:** informa a pontuação de legibilidade da ementa (principal métrica) de acordo com o método Flesch Reading Ease (FRE) que é um índice para indicar a facilidade de leitura. 
 
-E biblioteca está disponível em `mpes-métodos/pylinguistics` e para seu uso deve ser obtido o [diretório resource](https://drive.google.com/file/d/1w0GbcuzPTUQDnCWChndDSX-RW9kMW8eY/view?usp=sharing) e colocado conforme imagem abaixo:
+E biblioteca está disponível em `mpes-métodos/pylinguistics` e para seu uso deve ser obtido o [diretório resource](https://drive.google.com/file/d/1w0GbcuzPTUQDnCWChndDSX-RW9kMW8eY/view?usp=sharing) e colocado conforme imagem abaixo (mpes-metodos/pylinguistics/pylinguistics/resources):
 
 ![Modelo gerado pelo processo de treinamento](assets/images/resources_pylinguistics.png)
 
