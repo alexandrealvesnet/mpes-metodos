@@ -152,12 +152,10 @@ Esse método está disponível em `mpes-metodos/nmt-attention`, o treinamento e 
 
 Para a avaliação dos resultados foi utilizada a biblioteca [Pylinguistics](https://github.com/vwoloszyn/pylinguistics) que é usada para é usada para avaliação da legibilidade de textos escritos em língua portuguesa. As seguintes métricas foram utilizadas:
 
-* **Palavras (Pal):** quantidade de palavras contidas no texto da ementa;
-* **Sentenças (Sen):** quantidade de sentenças que formam a ementa;
-* **Méd. Pal/Sen:** Média de palavras por sentença;
+* **Sentenças:** quantidade de sentenças que formam a ementa;
 * **Comp. Méd. Sen:** Comprimento médio das sentenças;
-* **Sílabas (Sílab):** Quantidade de sílabas na ementa;
-* **Legibilidade (Leg):** informa o percentual da legibilidade da ementa (principal métrica). 
+* **Sílabas:** Número médio de sílabas por palavra;
+* **Legibilidade:** informa a pontuação de legibilidade da ementa (principal métrica) de acordo com o método Flesch Reading Ease (FRE) que é um índice para indicar a facilidade de leitura. 
 
 E biblioteca está disponível em `mpes-métodos/pylinguistics` e para seu uso deve ser obtido o [diretório resource](https://drive.google.com/file/d/1w0GbcuzPTUQDnCWChndDSX-RW9kMW8eY/view?usp=sharing) e colocado conforme imagem abaixo:
 
